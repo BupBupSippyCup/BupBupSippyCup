@@ -1,0 +1,1 @@
+Well met! I am BupBupSippyCup, and I would love to get my hands dirty (with software, that is! So... not dirty). I have some painfully basic knowledge of Python, CSS, Javascript and HTML, so I definitely need to brush up on it as soon as I start writing code. first desire is to create a proper  
